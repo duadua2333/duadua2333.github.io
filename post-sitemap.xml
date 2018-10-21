@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://yoursite-url/2018/10/21/181021/</loc>
+        <lastmod>2018-10-21T13:33:59.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://yoursite-url/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2018-10-18T06:05:55.633Z</lastmod>
         <changefreq>weekly</changefreq>
