@@ -2,18 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
-        <lastmod>2018-10-21T13:55:33.078Z</lastmod>
+        <loc>http://duadua2333.github.io/post-sitemap.xml</loc>
+        <lastmod>2018-10-24T03:21:06.839Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>http://duadua2333.github.io/page-sitemap.xml</loc>
         <lastmod>2018-10-18T06:05:55.772Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
-        <lastmod>2018-10-21T13:55:33.078Z</lastmod>
+        <loc>http://duadua2333.github.io/tag-sitemap.xml</loc>
+        <lastmod>2018-10-24T03:16:47.414Z</lastmod>
     </sitemap>
 
 </sitemapindex>
